@@ -53,5 +53,3 @@ describe('loops', () => {
     })
   })
 
-
-      expect(newArray).to.have.length.of.at.most(l - 1)
